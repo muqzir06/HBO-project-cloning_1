@@ -533,7 +533,7 @@ footer {
 }
 
 /* tablet .M */
-@media (min-width:768)and(max-width:1023px) {
+@media(max-width:1023px) {
     .tana {
         display: none;
     }
@@ -735,7 +735,7 @@ footer {
 
 
 /* mobile L .Mediya aquary */
-@media (min-width:425)and(max-width:767px) {
+@media (max-width:767px) {
     .tana {
         display: none;
     }
@@ -998,7 +998,7 @@ footer {
 
 
 /* mobile M .Mediya aquary */
-@media (min-width:375)and(max-width:424px) {
+@media(max-width:424px) {
     .tana {
         display: none;
     }
@@ -1266,7 +1266,7 @@ footer {
 
 
 /* mobile S .Mediya aquary */
-@media (min-width:50)and(max-width:374px) {
+@media(max-width:374px) {
     .tana {
         display: none;
     }
